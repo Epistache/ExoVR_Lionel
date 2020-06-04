@@ -1,0 +1,10 @@
+{
+    "name":           "be.epistache.consolcommand",                              
+     "displayName":    "My console commands for VR project",                        
+     "version":        "0.0.1",                         
+     "unity":          "2018.1",                        
+     "description":    "That's a consol aninamtion ready for Vr games",                         
+     "keywords":       ["Tool","3D"],                       
+     "dependencies":{  },     
+     "relatedPackages":{  }
+}
