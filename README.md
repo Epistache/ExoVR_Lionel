@@ -1,2 +1,2 @@
 # ExoVR_Lionel
-Console de boutons
+Magic Room
