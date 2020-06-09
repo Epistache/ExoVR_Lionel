@@ -1,9 +1,9 @@
 {
-    "name":           "be.epistache.consolcommand",                              
-     "displayName":    "My console commands for VR project",                        
+    "name":           "be.epistache.magicroom",                              
+     "displayName":    "My room for VR project",                        
      "version":        "0.0.1",                         
      "unity":          "2018.1",                        
-     "description":    "That's a consol aninamtion ready for Vr games",                         
+     "description":    "That's my room for the magix door project",                         
      "keywords":       ["Tool","3D"],                       
      "dependencies":{  },     
      "relatedPackages":{  }
